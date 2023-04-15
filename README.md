@@ -1,4 +1,4 @@
-## Olá! eu sou o Daniel
+## Olá! meu nome é Daniel.
 
 - 🔭 atualmente trabalho em uma pizzaria
 - 🌱 estudando Inglês, HTML, CSS e Javascript
