@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3DAEC5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Junior;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daniel-wews&bg_color=12343b&color=0c0d0e&line=9fc3d1&point=0a2431&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Daniel-wews&show_icons=true&count_private=true&hide_border=true&title_color=6CDOFF&icon_color=1FC5A8&text_color=c9d1d9&bg_color=00161D" alt="Daniel aparecido da costa junior github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wews&layout=compact&hide_border=true&title_color=6CDOFF&text_color=1FC5A8&bg_color=00161D" />
